@@ -1,3 +1,9 @@
+# Pada Kali ini kita Mencoba Membuat Card didalam ReactJS , serta cara :
+- import file
+- membuat props
+- membuat file css yang di import
+- serta memanggil function apa untuk dirender 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
