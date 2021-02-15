@@ -2,7 +2,7 @@
 - import file
 - membuat props
 - membuat file css yang di import
-- serta memanggil function apa untuk munculkan dalam browser
+- serta memanggil function yang akan ditampilkan dalam browser
 
 # Getting Started with Create React App
 
